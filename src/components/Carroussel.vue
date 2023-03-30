@@ -1,6 +1,6 @@
 <template>
   <div class="marquee">
-    <img src="src\assets\WhatsApp Image 2023-03-29 at 14.58.02.jpeg" style="width: 25vw; height: 60vh;">
+  
     <img src="src\assets\WhatsApp Image 2023-03-29 at 14.58.03 (1).jpeg" style="width: 25vw; height: 60vh;">
     <img src="src\assets\WhatsApp Image 2023-03-29 at 14.58.03 (2).jpeg" style="width: 25vw; height: 60vh;">
     <img src="src\assets\WhatsApp Image 2023-03-29 at 14.58.04 (1).jpeg" style="width: 25vw; height: 60vh;">
@@ -10,7 +10,7 @@
     <img src="src\assets\WhatsApp Image 2023-03-29 at 16.06.09.jpeg" style="width: 25vw; height: 60vh;">
     <img src="src\assets\WhatsApp Image 2023-03-29 at 16.06.10 (1).jpeg" style="width: 25vw; height: 60vh;">
     <img src="src\assets\WhatsApp Image 2023-03-29 at 16.06.10.jpeg" style="width: 25vw; height: 60vh;">
-
+    <img src="src\assets\WhatsApp Image 2023-03-29 at 14.58.02.jpeg" style="width: 25vw; height: 60vh;">
 
   </div>
   </template>
