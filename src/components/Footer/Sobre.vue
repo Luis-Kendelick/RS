@@ -4,7 +4,7 @@
       <div class="card" style="width: 100%;">
         <div class="card-body" id="foot">
           <div id="recursos">
-            <h2><a href="http://www.google.com">AGENDA DE SHOWS</a></h2>
+            <h2>AGENDA DE SHOWS</h2>
             <div class="show">
               <div class="date">01 ABR</div>
               <div class="description">SAÍDA SÃO PAULO/SP CHILLI MOB CRUISE</div>
