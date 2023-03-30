@@ -74,13 +74,4 @@
     
       </style>
       
-      <script>
-    
-      export default {
-        data() {
-          return {
-            mensagem: 'Olá, mundo!'
-          }
-        }
-      }
-      </script>
+ 
