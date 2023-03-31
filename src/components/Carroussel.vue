@@ -1,15 +1,15 @@
 <template>
   <div class="marquee">
-    <img src="public\imagem1.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem2.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem3.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem5.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem6.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem7.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem8.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem9.jpeg" style="width: 25vw; height: 60vh;">
-    <img src="public\imagem10.jpeg" style="width: 25vw; height: 60vh;"> 
-    <img src="public\imagem4.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem1.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem2.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem3.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem5.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem6.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem7.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem8.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem9.jpeg" style="width: 25vw; height: 60vh;">
+    <img src="/imagem10.jpeg" style="width: 25vw; height: 60vh;"> 
+    <img src="/imagem4.jpeg" style="width: 25vw; height: 60vh;">
 
   </div>
   </template>

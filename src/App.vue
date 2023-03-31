@@ -12,7 +12,7 @@
 
  
 
-  <div id="t">  <div id="tt"> <a href=""><img id="logoEscritorio" src="/Logo2.png" alt="Logo do Escritório" /></a></div> </div>
+  <div id="t">  <div id="tt"> <a href=""><img id="logoEscritorio" src="/logo2.png" alt="Logo do Escritório" /></a></div> </div>
 
   
 
@@ -20,7 +20,7 @@
 
   
   <video  id="background-video" autoplay loop muted>
-    <source src="video.mp4" type="video/mp4">
+    <source src="/video.mp4" type="video/mp4">
     
     Seu navegador não suporta a reprodução de vídeo.
   </video>
