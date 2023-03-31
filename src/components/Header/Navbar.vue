@@ -1,7 +1,7 @@
 <template>
  
         <nav id="navbar" class="navbar navbar-expand-lg" style="background-color: white; width: 100%;" >
-                <a href=""><img id="logoEscritorio" src="../../assets/logo.png" alt="Logo do Escritório" /></a>
+                <a href=""><img id="logoEscritorio" src="public\logo.png" alt="Logo do Escritório" /></a>
                 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -36,10 +36,10 @@
                     </ul>
                 <div class="nav-item dropdown" id="redeSociais">
                     
-                       <a  href="https://www.instagram.com/suyama.adv/"><img id="ico2" src="../../assets/instagram.svg" alt="Insta" /> </a>
-                       <a  href="https://www.linkedin.com/in/rafael-moreira-suyama-0043bb189/"><img id="ico2" src="../../assets/youtube.svg" alt="Youtube" /> </a>
-                       <a  href="https://wa.me/5513996267989"><img id="ico2" src="../../assets//twitter.svg" alt="Whats" /></a>
-                       <a  href="https://wa.me/5513996267989"><img id="ico2" src="../../assets/facebook.svg" alt="Whats" />   </a>
+                       <a  href="https://www.instagram.com/suyama.adv/"><img id="ico2" src="public\instagram.svg" alt="Insta" /> </a>
+                       <a  href="https://www.linkedin.com/in/rafael-moreira-suyama-0043bb189/"><img id="ico2" src="public\youtube.svg" alt="Youtube" /> </a>
+                       <a  href="https://wa.me/5513996267989"><img id="ico2" src="public\whatsapp.svg" alt="Whats" /></a>
+                       <a  href="https://wa.me/5513996267989"><img id="ico2" src="public\facebook.svg" alt="Whats" />   </a>
                     
 
                 </div> 

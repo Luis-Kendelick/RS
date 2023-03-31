@@ -14,10 +14,10 @@
                                    <div id="linksSocial" style="width: 10%;">
                                     
     
-                                        <div id="sMLogo"><a id="teste" class="dropdown-item" href="https://www.instagram.com/riqcarneiro/"><img id="ico2" src="../../assets/instagram.svg" alt="Insta" />   </a>
-                                        <a id="teste" class="dropdown-item" href="https://www.linkedin.com/in/rafael-moreira-suyama-0043bb189/"><img id="ico2" src="../../assets/youtube.svg" alt="Youtube" /> </a>
-                                        <a id="teste" class="dropdown-item" href="https://wa.me/5513996267989"><img id="ico2" src="../../assets/twitter.svg" alt="Whats" /></a>
-                                        <a id="teste" class="dropdown-item" href="https://wa.me/5513996267989"><img id="ico2" src="../../assets/facebook.svg" alt="Whats" /></a></div>
+                                        <div id="sMLogo"><a id="teste" class="dropdown-item" href="https://www.instagram.com/riqcarneiro/"><img id="ico2" src="public\instagram.svg" alt="Insta" />   </a>
+                                        <a id="teste" class="dropdown-item" href="https://www.linkedin.com/in/rafael-moreira-suyama-0043bb189/"><img id="ico2" src="public\youtube.svg" alt="Youtube" /> </a>
+                                        <a id="teste" class="dropdown-item" href="https://wa.me/5513996267989"><img id="ico2" src="public\twitter.svg" alt="Whats" /></a>
+                                        <a id="teste" class="dropdown-item" href="https://wa.me/5513996267989"><img id="ico2" src="public\facebook.svg" alt="Whats" /></a></div>
     
                                     </div>
     
