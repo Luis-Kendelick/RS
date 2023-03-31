@@ -12,7 +12,7 @@
 
  
 
-  <div id="t">  <div id="tt"> <a href=""><img id="logoEscritorio" src="public\Logo2.png" alt="Logo do Escritório" /></a></div> </div>
+  <div id="t">  <div id="tt"> <a href=""><img id="logoEscritorio" src="public\logo2.png" alt="Logo do Escritório" /></a></div> </div>
 
   
 
